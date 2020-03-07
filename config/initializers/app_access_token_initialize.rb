@@ -1,0 +1,1 @@
+Rails.configuration.x.app_access_token.storage = Rails.cache
