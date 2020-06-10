@@ -102,7 +102,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.14)
     fspath (3.1.0)
-    geocoder (1.4.7)
+    geocoder (1.6.1)
     globalid (0.3.7)
       activesupport (>= 4.1.0)
     hiredis (0.6.1)
