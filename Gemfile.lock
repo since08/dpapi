@@ -174,7 +174,7 @@ GEM
     powerpack (0.1.1)
     progress (3.3.1)
     puma (3.6.2)
-    rack (2.0.1)
+    rack (2.2.3)
     rack-attack (5.0.1)
       rack
     rack-cors (0.4.0)
