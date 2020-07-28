@@ -126,7 +126,7 @@ GEM
       multi_json (~> 1.2)
     jmessage (0.1.1)
     jpush (4.0.6)
-    json (2.0.2)
+    json (2.3.1)
     jwt (1.5.6)
     kaminari (1.0.1)
       activesupport (>= 4.1.0)
