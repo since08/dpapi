@@ -324,7 +324,7 @@ GEM
     wx_pay (0.16.1)
       activesupport (>= 3.2)
       rest-client (>= 2.0.0)
-    yajl-ruby (1.3.0)
+    yajl-ruby (1.4.3)
     yl_pay (1.1.3)
 
 PLATFORMS
